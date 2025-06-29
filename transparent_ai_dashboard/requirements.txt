@@ -1,0 +1,6 @@
+Django
+fairlearn
+numpy
+python-dotenv
+tensorflow
+tensorflow_intel
